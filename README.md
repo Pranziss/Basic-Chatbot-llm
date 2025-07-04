@@ -17,7 +17,5 @@ vscode(use any ide u want but ts is mine)
 Note: To check if it really is intalled properly w/ no issues then do flask --version, python --version, ollama --version
 
 What it can do:
-  assist user in various tasks such as coding etc.
-  can keep user sane
-  etc.
+  assist user in various tasks such as coding, can keep user sane, etc.
   
