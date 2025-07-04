@@ -1,5 +1,5 @@
 # Basic-Chatbot-llm
-Basic way to setup and make your own chatbot (Very friendly for laptops)
+Basic way to setup and make your own personal chatbot (Very friendly for laptops)
 
 MUST HAVE:
 
@@ -15,3 +15,9 @@ lm studio(where you download and test your model)
 vscode(use any ide u want but ts is mine)
 
 Note: To check if it really is intalled properly w/ no issues then do flask --version, python --version, ollama --version
+
+What it can do:
+  assist user in various tasks such as coding etc.
+  can keep user sane
+  etc.
+  
