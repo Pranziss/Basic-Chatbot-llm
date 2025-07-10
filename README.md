@@ -1,2 +1,3 @@
-# Prototype-wip-chatbot
-wip
+# Basic version
+
+Chatbot literal Chatbot
